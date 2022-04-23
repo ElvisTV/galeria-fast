@@ -5,6 +5,7 @@ const Footer = () => {
     <div className="Footer">
       {" "}
       <span role="img" aria-label="purple heart">
+        
         💜
       </span>
     </div>
