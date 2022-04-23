@@ -20,7 +20,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      {/* <Filter onChange={filterArts} /> */}
+      <Filter onChange={filterArts} />
       <Gallery arts={galleryData} />
       <Footer />
       <DarkMode />
